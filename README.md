@@ -1,4 +1,4 @@
 # A snake game by javascript
-Made with HTML, CSS and JavaScript.
+Made with HTML, JavaScript.
 
 Just Go Live
