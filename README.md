@@ -1,4 +1,4 @@
 # A snake game by javascript
 Made with HTML, JavaScript.
 
-Just Go Live
+Demo: https://antranquoc.github.io/Maze_Game/
